@@ -1,33 +1,59 @@
-# Hi there, I'm Harini 👋
+<h1 align="center">Hi 👋, I'm Harini</h1>
 
-###  Aspiring Cloud Engineer |  Full Stack Developer |  AI & Data Science Student
+<h3 align="center">
+Aspiring Cloud Engineer • Full Stack Developer • AI & Data Science Student
+</h3>
 
-Welcome to my GitHub profile!
-
-I'm passionate about building scalable web applications and cloud-native solutions using modern technologies. I enjoy learning new technologies, working on hands-on projects, and continuously improving my skills in Cloud Computing, Full Stack Development, and Artificial Intelligence.
-
-##  About Me
-
--  AI & Data Science Student
--  Currently learning AWS Cloud Computing
--  Passionate about Full Stack Web Development
--  Working with Python, JavaScript, HTML, CSS, and SQL
--  Exploring Serverless Architecture, DevOps, and Cloud-Native Applications
--  Goal: Become a Cloud Engineer and build scalable, real-world applications
-
-##  Technologies & Tools
-
--  AWS
--  Python
--  HTML
--  CSS
--  SQL
--  Git & GitHub
-
-
-
+<p align="center">
+Building cloud-native applications with AWS and modern web technologies.
+</p>
 
 ---
 
-⭐ *"Learning by Building. Growing Every Day."*
--->
+## 👩‍💻 About Me
+
+- ☁️ Learning **AWS Cloud Computing**
+- 💻 Building **Full Stack Applications**
+- 🐍 Programming in **Python & JavaScript**
+- 🌱 Exploring **Serverless Architecture** & **DevOps**
+- 🎯 Goal: Become a Cloud Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+---
+
+<p align="center">
+<i>Learning • Building • Improving</i>
+</p>
+

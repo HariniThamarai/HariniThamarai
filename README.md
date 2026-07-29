@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harini</h1>
-
-<h3 align="center">
-Aspiring Cloud Engineer • Full Stack Developer • AI & Data Science Student
-</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,50:7C3AED,100:06B6D4&text=Harini&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Aspiring%20Cloud%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
 
 <p align="center">
 Building cloud-native applications with AWS and modern web technologies.
@@ -41,18 +39,6 @@ Building cloud-native applications with AWS and modern web technologies.
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
----
-
 <p align="center">
 <i>Learning • Building • Improving</i>
 </p>

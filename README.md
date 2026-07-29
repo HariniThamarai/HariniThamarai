@@ -26,10 +26,7 @@ I'm passionate about building scalable web applications and cloud-native solutio
 - 🔧 Git & GitHub
 - 💙 VS Code
 
-## 📫 Connect with Me
 
-- 💼 LinkedIn: www.linkedin.com/in/your-linkedin
-- 📧 Email: your-email@example.com
 
 ---
 

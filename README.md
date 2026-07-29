@@ -25,19 +25,19 @@ Building cloud-native applications with AWS and modern web technologies.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
 </p>
 
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb" />
+<img src="https://skillicons.dev/icons?i=sql,mongodb" />
 </p>
 
 ---

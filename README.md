@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Harini 👋
 
-<!--
-**HariniThamarai/HariniThamarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Aspiring Cloud Engineer | 💻 Full Stack Developer | 🤖 AI & Data Science Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm passionate about building scalable web applications and cloud-native solutions using modern technologies. I enjoy learning new technologies, working on hands-on projects, and continuously improving my skills in Cloud Computing, Full Stack Development, and Artificial Intelligence.
+
+## 🚀 About Me
+
+- 🎓 AI & Data Science Student
+- ☁️ Currently learning AWS Cloud Computing
+- 💻 Passionate about Full Stack Web Development
+- 🐍 Working with Python, JavaScript, HTML, CSS, and SQL
+- 🌱 Exploring Serverless Architecture, DevOps, and Cloud-Native Applications
+- 🎯 Goal: Become a Cloud Engineer and build scalable, real-world applications
+
+## 🛠️ Technologies & Tools
+
+- ☁️ AWS
+- 🐍 Python
+- 💻 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🗄️ SQL
+- 🔧 Git & GitHub
+- 💙 VS Code
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/your-linkedin
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ *"Learning by Building. Growing Every Day."*
 -->
